@@ -317,8 +317,6 @@ st.title("📊 Dashboard Analizy Awarii Maszyn")
 # In[20]:
 
 
-streamlit run dashboard.py
-
 
 # In[21]:
 
