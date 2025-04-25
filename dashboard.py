@@ -321,7 +321,6 @@ st.title("📊 Dashboard Analizy Awarii Maszyn")
 # In[21]:
 
 
-pip install streamlit
 
 
 # In[22]:
